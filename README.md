@@ -1,1 +1,1 @@
-This repository includes some working projects 
+Here is the code of some working websites. 
