@@ -1,1 +1,1 @@
-Here is the code of some working websites such as animations , games , calenders , etc.
+Here is the code of some working websites such as online shopping ,animations , games , calenders   etc.
